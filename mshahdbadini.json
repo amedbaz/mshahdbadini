@@ -1,6 +1,36 @@
 {
   "mshahdbadini":[
      {
+       "id":4,
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/dragon%2Fphoto_2024-09-07_08-31-36.jpg?alt=media&token=c5747153-2bfe-4a81-bb60-558f5c844936",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/dragon%2Fphoto_2024-09-07_08-31-39.jpg?alt=media&token=93ba8a82-4628-43e1-976f-0da815ffda93",
+      "ism":" ",
+      "nav":" How to Train Your Dragon",
+    "action":"film",
+    "aaction":": Animation",
+    "raiting":"star",
+    "araitng":": 8.1",
+    "time":"time-sharp",
+    "atime":": 1h 38m",
+    "trailer":"ترەیلەر",
+    "youtube":"UUH4_Gl8vJU?si=ysnfoa98d1eprhFI",
+      "youtube1":"2AKsAxrhqgM?si=PnlNqQvQCwSayQnI",
+      "youtube2":"ZDyEERuK31Y?si=qwrJxDIS0fGTt682",
+      "youtube3":"TiJBxtM5iKw?si=KT4PuOHzAqFA_5zg",
+      "jor":"How to Train Your Dragon",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/dragon%2FHow.To.Train.Your.Dragon.2010%20(1).mp4?alt=media&token=959a65f1-63c7-4e09-982d-caf7f5461ea7",
+ "kurti":"كورتی",
+ "akurti":"ڤایکینگێک هەمی یاسایا دشکێنیت و هەڤالینیا ئەژدەهایەکی دکەت کو بریارە بکوژیت بریارە بێ ددانا ناڤێ وی بینیت و هێزێت هەردوکا ئێک دگرن بو ژناڤبرنا وێ کو بریارە وێران کاریەکا مەزن دجیهانێ دا دروست بکەن",
+"actor":"https://media.themoviedb.org/t/p/w128_and_h128_face/vnmSMqqKgWtYp1cw0BlRFGQHiVt.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w128_and_h128_face/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w128_and_h128_face/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w128_and_h128_face/vq4vuAVhYngfzVNn8SbnG0JEy15.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w128_and_h128_face/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w128_and_h128_face/6U6UGztBwk7c4lg8n5BS5QOByot.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    }
+,
+     {
    "id":3,
       "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2Fjack1.jpg?alt=media&token=96d5db72-88cc-4e7d-a855-9f86092e3b46",
       "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2Fjack2.jpg?alt=media&token=c8e179f6-5c2a-4b4d-861c-1bc56ae0725c",
