@@ -84,7 +84,36 @@
  "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/yfvun7dhG1T33qXPCbWVY3hx90b.jpg",
  "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/AliWyacF1Hn6h9XViCrH6wTLZjH.jpg",
 "new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
+     {
+   "id":12,
+      "wene1":"https://m.media-amazon.com/images/M/MV5BZmQwODM5NTctYzRkMi00MmIwLWFjODAtMTFiMWY2OWE3MGQyXkEyXkFqcGc@._V1_.jpg",
+      "wene":"https://m.media-amazon.com/images/M/MV5BZmQwODM5NTctYzRkMi00MmIwLWFjODAtMTFiMWY2OWE3MGQyXkEyXkFqcGc@._V1_.jpg",
+      "ism":" ",
+      "nav":"Nowhere 2023",
+    "action":"film",
+    "aaction":" Action",
+    "raiting":"star",
+    "araitng":" 7.7",
+    "time":"time-sharp",
+    "atime":" 1h 59m",
+    "play1":" ",
+    "trailer":"ترەیلەر",
+     "youtube":"NS8VcxZbVQQ?si=Y-oAkDJEqfIcWyIO",
+     
+      "jor":"Nowhere 2023",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/cinama%2FIMG_2725.MP4?alt=media&token=21ac652d-fd46-4234-aacc-d0b1c08c6604",
+ "kurti":"كورتی",
+ "akurti":"نام سان و جی وان و ئیون هۆ دەگەنە کەمپەکە و لەگەڵ سەربازە گۆڕاوەکاندا شەڕ دەکەن. ئەوان توانیان سو-نا ڕزگار بکەن، لە کاتێکدا گی-سو لەگەڵ تەرمی سۆ-یۆن لەناو جانتایەکدا هەڵدێت. بەڵام لەلایەن جەماعەتێکی خەڵکەوە دەورە دراوە، کە ئامادەن لێی بدەن تا بیکوژن. لەکاتی تەقەکردن لە خەڵکەکە، بە هەڵە زیان بە جانتاکە دەگەیەنێت و سۆ-یۆن دەکوژێت. نام سان گی سو دەکوژێت و دەگەڕێتەوە گوندەکەی خۆی، لەگەڵ سو نا و جی وان.",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/v5lzKZjvNrbgYnr3vw8cKZVNyTA.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/gV5WUw4GiKeTiPO0RgZ2GHyL9Yv.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/8mTd6HpLDFK2cwiWhoyZO78A5n1.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/sDCxskfmmNidOjV2LwsWh9dAVbN.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/yfvun7dhG1T33qXPCbWVY3hx90b.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/AliWyacF1Hn6h9XViCrH6wTLZjH.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
     }
+
 
  ]
 }
